@@ -1,2 +1,1 @@
-# eyrie-documents
-logistical documents
+Welcome to the seedling Eyrie Repository. 
